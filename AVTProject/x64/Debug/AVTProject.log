@@ -1,0 +1,62 @@
+﻿  lightDemo.cpp
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\Rover.h(2,13): warning C4099: 'MyMesh': nome de tipo visto primeiro usando 'struct', agora visto usando 'class'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\geometry.h(19): message : consulte a declaração de 'MyMesh'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\RandomRoller.h(4,13): warning C4099: 'MyMesh': nome de tipo visto primeiro usando 'struct', agora visto usando 'class'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\Rover.h(2): message : consulte a declaração de 'MyMesh'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(329,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(356,21): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(357,17): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(358,25): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(389,11): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(423,40): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(423,23): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(425,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(427,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(581,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(582,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(584,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(585,35): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(609,12): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(562,21): warning C4101: 'alpha': variável local não referenciada
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(667,104): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(667,71): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(667,54): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(667,21): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(843,8): warning C4101: 'res': variável local não referenciada
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(980,31): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1215,22): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1214,38): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1218,22): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1217,27): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1467,29): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1472,103): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1472,70): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1472,53): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1472,20): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1473,123): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1473,96): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1473,76): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1474,90): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1474,63): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1474,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1487,104): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1487,71): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1487,54): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1487,21): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1488,98): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1488,72): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1488,53): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1500,104): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1500,71): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1500,54): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1500,21): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1501,103): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1501,77): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1501,58): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1502,127): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1502,100): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1502,77): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(1944,39): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\nunoe\Music\AVT-Project\AVT-Project\AVTProject\lightDemo.cpp(2347,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  AVTProject.vcxproj -> C:\Users\nunoe\Music\AVT-Project\AVT-Project\x64\Debug\AVTProject.exe
+  0 File(s) copied
