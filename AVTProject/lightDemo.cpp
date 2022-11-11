@@ -256,7 +256,7 @@ float pointLightPositions[NUM_POINT_LIGHTS][4] = {
 	{0.0f, -1.0f, 0.0f, 0.0f}	  // directional light (x, y (altura), z)
 };
 
-bool headlights = true;
+bool headlights = false;
 bool pointlights = true;
 bool sunlight = true;
 bool fog = true;
@@ -591,7 +591,7 @@ void render_flare(FLARE_DEF *flare, int lx, int ly, int *m_viewport)
 	// Render each element. To be used Texture Unit 0
 
 	glUniform1i(texMode_uniformId, 8); // draw modulated textured particles
-	glUniform1i(tex_loc6, 0);		   // use TU 0
+	glUniform1i(tex_loc6, 12);		   // use TU 0
 
 	for (i = 0; i < flare->nPieces; ++i)
 	{
@@ -618,7 +618,7 @@ void render_flare(FLARE_DEF *flare, int lx, int ly, int *m_viewport)
 			loc = glGetUniformLocation(shader.getProgramIndex(), "mat.diffuse");
 			glUniform4fv(loc, 1, diffuse);
 
-			glActiveTexture(GL_TEXTURE0);
+			glActiveTexture(GL_TEXTURE12);
 			glBindTexture(GL_TEXTURE_2D, FlareTextureArray[flare->element[i].textureId]);
 			pushMatrix(MODEL);
 			translate(MODEL, (float)(px - width * 0.0f), (float)(py - height * 0.0f), 0.0f);
@@ -930,6 +930,7 @@ void setupTextures()
 	glUniform1i(tex_loc5, 9);
 	glUniform1i(tex_normalMap_loc, 10);
 	glUniform1i(tex_loc_cube, 11);
+	//glUniform1i(tex_loc6, 12);
 
 	// glUniform1i(tex_sphereMap_loc, 8);
 }
@@ -1879,7 +1880,7 @@ int init()
 	Texture2D_Loader(TextureArray, "particle.tga", 4);
 	Texture2D_Loader(TextureArray, "stone.tga", 5);
 	Texture2D_Loader(TextureArray, "normal.tga", 6);
-	Texture2D_Loader(TextureArray, "spider/wal67ar_small.jpg", 22);
+	//Texture2D_Loader(TextureArray, "spider/wal67ar_small.jpg", 92);
 
 	const char *filenames[] = {"posx.jpg", "negx.jpg", "posy.jpg", "negy.jpg", "posz.jpg", "negz.jpg"};
 
